@@ -6,7 +6,7 @@
             <xpath expr="//div[@class='navbar-header']" position="inside">
                 <ul class="ul_spark_logo">
                     <li>
-                        <img src="/sparkit_sparkit_logo/static/src/img/sparklogosmall.png"/>
+                        <img src="/sparkit_sparkit_logo/static/src/img/logo.png"/>
                     </li>
                 </ul>
             </xpath>
